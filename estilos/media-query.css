@@ -31,6 +31,8 @@ grandes telas: acima 1440px
     div#formulario > p {
     font-size: 1em;
     }
+
+
 }
 
 @media screen and (min-width: 1024px) {
@@ -60,4 +62,6 @@ grandes telas: acima 1440px
     div#formulario > p {
     font-size: 1.5em;
     }
+
+  
 }
