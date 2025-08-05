@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Portifólio" src="imagens/previsãodotempo.png" width="100%">
+  <img alt="Portifólio" src="imagens/Texto do seu parágrafo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
